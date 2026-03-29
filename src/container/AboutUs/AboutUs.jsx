@@ -13,7 +13,7 @@ const AboutUs = () => (
       <div className="app__aboutus-content_about">
         <h1 className="headtext__cormorant">About Us</h1>
         <img src={images.spoon} alt="about_spoon" className="spoon__img" />
-        <p className="p__opensans">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis pharetra adipiscing ultrices vulputate posuere tristique. In sed odio nec aliquet eu proin mauris et.</p>
+        <p className="p__opensans">We are a family-owned restaurant dedicated to serving authentic, home-style Indian cuisine made with fresh, locally sourced ingredients. From traditional recipes passed down through generations to modern twists on classic dishes, every meal tells a story of flavor, warmth, and culinary heritage.</p>
         <button type="button" className="custom__button">Know More</button>
       </div>
 
@@ -24,7 +24,7 @@ const AboutUs = () => (
       <div className="app__aboutus-content_history">
         <h1 className="headtext__cormorant">Our History</h1>
         <img src={images.spoon} alt="about_spoon" className="spoon__img" />
-        <p className="p__opensans">Adipiscing tempus ullamcorper lobortis odio tellus arcu volutpat. Risus placerat morbi volutpat habitasse interdum mi aliquam In sed odio nec aliquet.</p>
+        <p className="p__opensans">Our story began with a small dream and a big love for food. What started as a humble kitchen serving a few signature dishes soon grew into a place where people gather to enjoy great meals and warm hospitality.</p>
         <button type="button" className="custom__button">Know More</button>
       </div>
     </div>
